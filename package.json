@@ -1,0 +1,17 @@
+{
+    "name": "@c37/locale",
+    "version": "0.0.3",
+    "description": "Locales of C37 products",
+    "homepage": "https://github.com/c37/locale",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/c37/locale.git"
+    },
+    "license": "CC-BY-SA-4.0",
+    "main": "index.js",
+    "author": {
+        "name": "Ciro Cesar Maciel",
+        "email": "ciro.maciel@c37.co"
+    },
+    "scripts": {}
+}
