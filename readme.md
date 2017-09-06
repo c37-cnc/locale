@@ -16,21 +16,15 @@ In computing, internationalization and localization are means of adapting comput
         - field
         - field
 - page - a pagina, **uma pagina ira conter varios componentes**
-    - component - o componente, **um componente ira conter varios fields**
-        - field - o campo, **contem as seguintes opcoes de configuracao** 
-            - display - 'd'
-            - title - 't'
-            - description - 'c'
+    - component
+        - field
         - field
         - field
     - component
     - component 
 - footer - o rodape comum para todo o sistema/website/produto, **um footer ira conter varios componentes**
-    - component - o componente, **um componente ira conter varios fields**
-        - field - o campo, **contem as seguintes opcoes de configuracao** 
-            - display - 'd'
-            - title - 't'
-            - description - 'c'
+    - component
+        - field
         - field
         - field
 
