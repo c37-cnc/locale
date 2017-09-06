@@ -8,6 +8,7 @@ In computing, internationalization and localization are means of adapting comput
 
 ### Estrutura dos Dados
 - header - o cabecalho comum para todo o sistema/website/produto, **um header ira conter varios componentes**
+    - component
     - component - o componente, **um componente ira conter varios fields**
         - field - o campo, **contem as seguintes opcoes de configuracao** 
             - display - 'd'
@@ -15,18 +16,15 @@ In computing, internationalization and localization are means of adapting comput
             - description - 'c'
         - field
         - field
+    - component
 - page - a pagina, **uma pagina ira conter varios componentes**
     - component
-        - field
-        - field
-        - field
-    - component
-    - component 
+- page
+- page
 - footer - o rodape comum para todo o sistema/website/produto, **um footer ira conter varios componentes**
     - component
-        - field
-        - field
-        - field
+    - component
+    - component
 
 ```
 {
