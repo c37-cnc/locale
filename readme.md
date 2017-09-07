@@ -34,7 +34,7 @@ In computing, internationalization and localization are means of adapting comput
     - component
     - component
 
-#### Contem as seguintes opcoes de configuracao
+#### Field - Opcoes de configuracao
 ```
 {
     display: 'd', // o valor para a apresentacao na tela
