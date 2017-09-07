@@ -1,20 +1,37 @@
 module.exports = {
     // header
+    '10dd73e': {
 
+    },
+    // messages
+    'b591d5f': {
+        // warning 
+        'a540a70': {
 
-    // page
-
-    
-
-
+        },
+        // validation 
+        '0450d1b': {
+            '1279171': {
+                'd': 'Você não pode deixar este campo em branco.'
+            },
+            '2641950': {
+                'd': 'Deve ser $ {max} caracteres ou menos.'
+            },
+            '6592623': {
+                'd': 'Deve ser $ {min} caracteres ou mais.'
+            },
+            'c3bf881': {
+                'd': 'Endereço de email invalido.'
+            },
+            '76ae7b1': {
+                'd': 'Alguém já tem esse nome de usuário.'
+            }
+        }
+    },
     // footer
+    '6e4aded': {
 
-    
-    
-
-
-
-
+    },
     // authenticate
     'a049f4d': {
         '1354cd9': {
@@ -69,5 +86,5 @@ module.exports = {
             d: 'Criar conta'
         }
 
-    }
+    },
 }

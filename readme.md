@@ -6,14 +6,16 @@ In computing, internationalization and localization are means of adapting comput
 
 `npm install @c37/locale --save`
 
+### Compatibility
+- [React  - Internationalize](https://github.com/yahoo/react-intl)
+- [Preact- translations](https://github.com/download/preact-i18nline)
+- [i18next - internationalization](https://www.i18next.com/)
+
 ### Estrutura dos Dados
-- header - o cabecalho do sistema/website/produto - **um header ira conter varios componentes**
-    - component
-    - component - **um componente ira conter varios fields**
-        - field
-        - field
-        - field
-    - component
+- header - o cabecalho do sistema/website/produto - **um header ira conter varios fields**
+    - field
+    - field
+    - field
 - messages - as menssagens do sistema/website/produto - **uma messages ira conter tipos**
     - warning - **menssagem do tipo aviso**
         - field
@@ -23,18 +25,20 @@ In computing, internationalization and localization are means of adapting comput
         - field
         - field
         - field
-- page - **uma pagina ira conter varios componentes**
-    - component
-    - component
-    - component
-- page
-- page
-- footer - o rodape do sistema/website/produto - **um footer ira conter varios componentes**
-    - component
-    - component
-    - component
+- footer - o rodape do sistema/website/produto - **um footer ira conter varios fields**
+    - field
+    - field
+    - field
+- container/component - **um container/component ira conter varios fields**
+    - field
+    - field
+    - field
+- container/component
+    - field
+    - field
+    - field
 
-#### Field - Opcoes de configuracao
+#### Field - Configuracao:
 ```
 {
     display: 'd', // o valor para a apresentacao na tela
