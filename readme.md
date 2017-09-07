@@ -7,14 +7,14 @@ In computing, internationalization and localization are means of adapting comput
 `npm install @c37/locale --save`
 
 ### Estrutura dos Dados
-- header - o cabecalho comum para todo o sistema/website/produto - **um header ira conter varios componentes**
+- header - o cabecalho do sistema/website/produto - **um header ira conter varios componentes**
     - component
     - component - **um componente ira conter varios fields**
         - field
         - field
         - field
     - component
-- messages - as menssagens comuns para todo o sistema/website/produto, **uma messages ira conter tipos**
+- messages - as menssagens do sistema/website/produto - **uma messages ira conter tipos**
     - warning - **menssagem do tipo aviso**
         - field
         - field
@@ -29,7 +29,7 @@ In computing, internationalization and localization are means of adapting comput
     - component
 - page
 - page
-- footer - o rodape comum para todo o sistema/website/produto, **um footer ira conter varios componentes**
+- footer - o rodape do sistema/website/produto - **um footer ira conter varios componentes**
     - component
     - component
     - component
