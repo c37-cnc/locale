@@ -12,79 +12,108 @@ module.exports = {
         // validation 
         '0450d1b': {
             '1279171': {
-                'd': 'Você não pode deixar este campo em branco.'
+                'd': 'Este campo é necessário'
             },
             '2641950': {
-                'd': 'Deve ser $ {max} caracteres ou menos.'
+                'd': 'Deve ter ${max} caracteres ou menos'
             },
             '6592623': {
-                'd': 'Deve ser $ {min} caracteres ou mais.'
+                'd': 'Deve ter ${min} caracteres ou mais'
             },
             'c3bf881': {
-                'd': 'Endereço de email invalido.'
+                'd': 'Endereço de email inválido'
             },
             '76ae7b1': {
-                'd': 'Alguém já tem esse nome de usuário.'
+                'd': 'Alguém já tem esse nome de usuário'
             }
         }
     },
     // footer
     '6e4aded': {
-
-    },
-    // authenticate
-    'a049f4d': {
         '1354cd9': {
             d: 'Termos'
         },
         'b89d168': {
-            d: 'Privacidade'
+            d: 'Política'
         },
-        '213fdab': {
-            d: 'Autenticação'
+        'a6d2779': {
+            d: 'Sobre a C37'
         },
-        'f251f56': {
-            d: 'Trabalhamos para levar os meios de produção ao alcance de <strong>todas as pessoas</strong>.'
+        '90a7356': {
+            d: 'Status'
         },
-        '12131b8': {
-            d: 'Entrar'
+        'b0aa82f': {
+            d: 'Open Source'
+        }
+    },
+    // signUp
+    'a049f4d': {
+        '8169b5f': {
+            d: 'Crie sua Conta na C37'
         },
-        'f69d799': {
-            d: 'Criar nova conta'
+        'af04dbc': {
+            d: 'Você só precisa de uma conta'
         },
-        '15f18aa': {
-            d: 'E-mail'
+        'aa80f24': {
+            d: 'Uma conta gratuita dá acesso a tudo o que a C37 oferece'
         },
-        '808a61c': {
-            d: 'Digite sua Senha'
+        'dbcc8e1': {
+            d: 'Leve tudo com você'
         },
-        '6c9150b': {
-            d: 'Permanecer conectado'
+        '11dded2': {
+            d: 'Troque de dispositivo e continue de onde parou'
         },
-        '6a31c52': {
-            d: 'Esqueceu sua senha?'
+        'b36405f': {
+            d: 'Crie sua Conta'
         },
-        '62fd546': {
+        'a7cdf6f': {
+            d: 'Trabalhamos para levar os meios de produção ao <br/> <strong>alcance de todas as pessoas</strong>.'
+        },
+        '38a7a10': {
             d: 'Ao clicar em Criar conta, você concorda com nossos Termos de Uso, nossa Política de Privacidade, incluindo o Uso de Cookies.'
         },
-        '4b4ea90': {
-            d: 'Entrar'
+        'f613e8e': {
+            d: 'Criar conta'
         },
-        '6bd1d97': {
+        'bc99d26': {
             d: 'Nome'
         },
-        '3ac789d': {
+        'a8ae5bd': {
             d: 'Sobrenome'
         },
-        'fa7db93': {
+        '479d3c3': {
+            d: 'Escolha seu nome de usuário'
+        },
+        '6bbf9b4': {
             d: 'E-mail'
         },
-        'a760920': {
+        'fef0503': {
+            d: 'Nascimento'
+        },
+        '9717035': {
+            d: 'Sexo',
+            '242a205': {
+                d: 'Sou do sexo...'
+            },
+            'baebbcc': {
+                d: 'Feminino'
+            },
+            '17a960f': {
+                d: 'Masculino'
+            },
+            '7afda50': {
+                d: 'Outro'
+            },
+        },
+        'ecf93bd': {
+            d: 'Telefone celular'
+        },
+
+        'd065b2a': {
             d: 'Digite sua Senha'
         },
-        '2bc2cd4': {
-            d: 'Criar conta'
+        '9e60322': {
+            d: 'Confirme sua senha'
         }
-
     },
 }
