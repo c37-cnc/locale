@@ -116,4 +116,20 @@ module.exports = {
             d: 'Confirme sua senha'
         }
     },
+    // signIn
+    '9d576a4': {
+
+    },
+    // wellcome
+    '51a4ce4': {
+
+    },
+    // active
+    '6cebed1': {
+
+    },
+    // user
+    '089d4f6': {
+
+    }
 }
