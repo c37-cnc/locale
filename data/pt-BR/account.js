@@ -26,8 +26,11 @@ module.exports = {
             '76ae7b1': {
                 'd': 'Alguém já tem esse nome de usuário'
             },
-            'c1544c7':{
+            'c1544c7': {
                 'd': 'Número de telefone inválido'
+            },
+            '2b0c3da': {
+                'd': 'Voce pode usar letras, numeros e traços'
             }
         }
     },
