@@ -26,6 +26,9 @@ module.exports = {
             '76ae7b1': {
                 'd': 'Someone already has this username'
             },
+            '566c3a2': {
+                'd': 'Someone already has this email'
+            },
             '2b0c3da': {
                 'd': 'You can use letters, numbers and dashes'
             }

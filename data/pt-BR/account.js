@@ -26,6 +26,9 @@ module.exports = {
             '76ae7b1': {
                 'd': 'Alguém já tem esse nome de usuário'
             },
+            '566c3a2': {
+                'd': 'Alguém já tem esse e-mail'
+            },
             'c1544c7': {
                 'd': 'Número de telefone inválido'
             },
