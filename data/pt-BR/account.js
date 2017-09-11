@@ -30,7 +30,7 @@ module.exports = {
                 'd': 'Número de telefone inválido'
             },
             '2b0c3da': {
-                'd': 'Voce pode usar letras, numeros e traços'
+                'd': 'Você pode usar letras, números e traços'
             }
         }
     },
