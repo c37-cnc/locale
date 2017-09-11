@@ -15,16 +15,19 @@ module.exports = {
                 'd': 'Este campo é necessário'
             },
             '2641950': {
-                'd': 'Deve ter ${max} caracteres ou menos'
+                'd': 'Deve ter 15 caracteres ou menos'
             },
             '6592623': {
-                'd': 'Deve ter ${min} caracteres ou mais'
+                'd': 'Deve ter 6 caracteres ou mais'
             },
             'c3bf881': {
                 'd': 'Endereço de email inválido'
             },
             '76ae7b1': {
                 'd': 'Alguém já tem esse nome de usuário'
+            },
+            'c1544c7':{
+                'd': 'Número de telefone inválido'
             }
         }
     },
