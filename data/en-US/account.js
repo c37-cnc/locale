@@ -30,7 +30,7 @@ module.exports = {
                 'd': 'Someone already has this email'
             },
             '2b0c3da': {
-                'd': 'You can use letters, numbers and dashes'
+                'd': "Only use letters, numbers and '-'"
             }
         }
     },
