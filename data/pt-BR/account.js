@@ -100,7 +100,6 @@ module.exports = {
             d: 'Nascimento'
         },
         '9717035': {
-            d: 'Sexo',
             '242a205': {
                 d: 'Sou do sexo...'
             },
