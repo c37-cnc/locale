@@ -34,6 +34,9 @@ module.exports = {
             },
             '2b0c3da': {
                 'd': "Utilize apenas letras, números e '-'"
+            },
+            '644f414': {
+                'd': "Essas senhas não coincidem. Tente novamente"
             }
         }
     },

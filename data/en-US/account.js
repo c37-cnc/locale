@@ -34,6 +34,9 @@ module.exports = {
             },
             '2b0c3da': {
                 'd': "Only use letters, numbers and '-'"
+            },
+            '644f414': {
+                'd': "These passwords do not match. Try again"
             }
         }
     },
