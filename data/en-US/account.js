@@ -15,10 +15,10 @@ module.exports = {
                 'd': 'This field is required'
             },
             '2641950': {
-                'd': 'Must have ${max} characters or less'
+                'd': 'Must have 15 characters or less'
             },
             '6592623': {
-                'd': 'Must have ${min} characters or more'
+                'd': 'Must have 6 characters or more'
             },
             'c3bf881': {
                 'd': 'Invalid email address'
@@ -28,6 +28,9 @@ module.exports = {
             },
             '566c3a2': {
                 'd': 'Someone already has this email'
+            },
+            'c1544c7': {
+                'd': 'Invalid phone number'
             },
             '2b0c3da': {
                 'd': "Only use letters, numbers and '-'"
