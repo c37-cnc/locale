@@ -100,7 +100,16 @@ module.exports = {
             d: 'E-mail'
         },
         'fef0503': {
-            d: 'Nascimento'
+            d: 'Nascimento',
+            'c4a5d90': {
+                d: 'Dia'
+            },
+            '99fb7f7': {
+                d: 'Mês'
+            },
+            'b7c9f81': {
+                d: 'Ano'
+            }
         },
         '9717035': {
             '242a205': {
