@@ -105,16 +105,50 @@ module.exports = {
                 d: 'Dia'
             },
             '99fb7f7': {
-                d: 'Mês'
+                d: 'Mês',
+                '6891a71': {
+                    d: 'Janeiro'
+                },
+                '67466ca': {
+                    d: 'Fevereiro'
+                },
+                '57189e6': {
+                    d: 'Março'
+                },
+                'd723ff9': {
+                    d: 'Abril'
+                },
+                '9e512cc': {
+                    d: 'Maio'
+                },
+                '36e4d7d': {
+                    d: 'Junho'
+                },
+                '67646f5': {
+                    d: 'Julho'
+                },
+                '2d8a5a2': {
+                    d: 'Agosto'
+                },
+                'd255ed4': {
+                    d: 'Setembro'
+                },
+                'e738651': {
+                    d: 'Outubro'
+                },
+                'ff24c43': {
+                    d: 'Novembro'
+                },
+                '3af9d43': {
+                    d: 'Dezembro'
+                }
             },
             'b7c9f81': {
                 d: 'Ano'
             }
         },
         '9717035': {
-            '242a205': {
-                d: 'Sou do sexo...'
-            },
+            d: 'Sou do sexo...',
             'baebbcc': {
                 d: 'Feminino'
             },

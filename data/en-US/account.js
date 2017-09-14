@@ -105,16 +105,50 @@ module.exports = {
                 d: 'Day'
             },
             '99fb7f7': {
-                d: 'Month'
+                d: 'Month',
+                '6891a71': {
+                    d: 'January'
+                },
+                '67466ca': {
+                    d: 'February'
+                },
+                '57189e6': {
+                    d: 'March'
+                },
+                'd723ff9': {
+                    d: 'April'
+                },
+                '9e512cc': {
+                    d: 'May'
+                },
+                '36e4d7d': {
+                    d: 'June'
+                },
+                '67646f5': {
+                    d: 'July'
+                },
+                '2d8a5a2': {
+                    d: 'August'
+                },
+                'd255ed4': {
+                    d: 'September'
+                },
+                'e738651': {
+                    d: 'October'
+                },
+                'ff24c43': {
+                    d: 'November'
+                },
+                '3af9d43': {
+                    d: 'December'
+                }
             },
             'b7c9f81': {
                 d: 'Year'
             }
         },
         '9717035': {
-            '242a205': {
-                d: "I'm from sex..."
-            },
+            d: "I'm from sex...",
             'baebbcc': {
                 d: 'Female'
             },
