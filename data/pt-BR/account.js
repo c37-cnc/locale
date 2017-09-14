@@ -37,6 +37,9 @@ module.exports = {
             },
             '644f414': {
                 'd': "Essas senhas não coincidem. Tente novamente"
+            },
+            'be5e898':{
+                'd': "Data inválida"               
             }
         }
     },

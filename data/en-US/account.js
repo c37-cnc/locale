@@ -37,6 +37,9 @@ module.exports = {
             },
             '644f414': {
                 'd': "These passwords do not match. Try again"
+            },
+            'be5e898':{
+                'd': "Invalid date"               
             }
         }
     },
