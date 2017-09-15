@@ -38,8 +38,8 @@ module.exports = {
             '644f414': {
                 'd': "Essas senhas não coincidem. Tente novamente"
             },
-            'be5e898':{
-                'd': "Data inválida"               
+            'be5e898': {
+                'd': "Data inválida"
             }
         }
     },
@@ -179,25 +179,48 @@ module.exports = {
     },
     // wellcome
     '51a4ce4': {
-        'ea9f73e':{
+        'ea9f73e': {
             'd': 'Conta - C37'
         },
-        '90b4f9e':{
+        '90b4f9e': {
             'd': 'Conta'
         },
-        '8be99f7':{
+        '8be99f7': {
             'd': 'Sua conta foi criada com sucesso.'
         },
-        'e706e1d':{
+        'e706e1d': {
             'd': 'Um e-mail foi enviado para o seu email <a href="mailto:{email}">{email}</a>. <br/> Clique no botão no e-mail para ativar sua conta.'
         },
-        '01a9d2e':{
+        '01a9d2e': {
             'd': 'Se você não receber a mensagem de confirmação dentro de alguns minutos, <br/> <b>verifique sua pasta de Spam</b>. <br/> Caso esteja lá, selecione a mensagem de confirmação e clique em <b>Não é Spam</b>, <br/> o que permitirá que <b>futuras mensagens sejam entregues</b>.'
         }
     },
     // active
     '6cebed1': {
-
+        'e83d8cb': {
+            'd': 'Ative sua conta - C37'
+        },
+        '3a1a457': {
+            'd': 'Ativar sua Conta'
+        },
+        '60c166e': {
+            'd': 'Ativando sua conta C37'
+        },
+        'e693c8a': {
+            'd': 'Estamos trabalhando para ativar sua conta C37 <br/> <strong>Não feche seu navigator</strong>'
+        },
+        '0e21b72': {
+            'd': 'Trabalhando...'
+        },
+        '4d30b9b': {
+            'd': 'Sua conta foi ativada com sucesso'
+        },
+        '5cffe75': {
+            'd': 'Estamos lhe redirecionando para o site da C37'
+        },
+        '4567c93': {
+            'd': 'Redirecionando...'
+        }
     },
     // user
     '089d4f6': {

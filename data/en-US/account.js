@@ -192,12 +192,35 @@ module.exports = {
             'd': 'An email has been sent to your email <a href="mailto:{email}"> {email} </a>. <br/> Click the button in the email to activate your account.'
         },
         '01a9d2e': {
-            'd': 'If you do not receive the confirmation message within a few minutes, <br/> <b> check your Spam folder </b>. <br/> If it is there, select the confirmation message and click <b> Not Spam </b>, <br/> which will allow <b> future messages to be delivered </b>.'
+            'd': 'If you do not receive the confirmation message within a few minutes, <br/> <b> check your Spam folder </b>. <br/> If it is there, select the confirmation message and click <b> Not Spam </b>, <br/> which will allow <b>future messages to be delivered</b>.'
         }
     },
     // active
     '6cebed1': {
-
+        'e83d8cb': {
+            'd': 'Activate your account - C37'
+        },
+        '3a1a457': {
+            'd': 'Activate Your Account'
+        },
+        '60c166e': {
+            'd': 'Activating your C37 account'
+        },
+        'e693c8a': {
+            'd': 'We are working to activate your C37 account <br/> <strong> Do not close your navigator </strong>'
+        },
+        '0e21b72': {
+            'd': 'Working...'
+        },
+        '4d30b9b': {
+            'd': 'Your account has been successfully activated'
+        },
+        '5cffe75': {
+            'd': 'We are redirecting you to the C37 website'
+        },
+        '4567c93': {
+            'd': 'Redirecting...'
+        }
     },
     // user
     '089d4f6': {
