@@ -38,8 +38,8 @@ module.exports = {
             '644f414': {
                 'd': "These passwords do not match. Try again"
             },
-            'be5e898':{
-                'd': "Invalid date"               
+            'be5e898': {
+                'd': "Invalid date"
             }
         }
     },
@@ -173,4 +173,34 @@ module.exports = {
             d: 'Confirm your password'
         }
     },
+    // signIn
+    '9d576a4': {
+
+    },
+    // wellcome
+    '51a4ce4': {
+        'ea9f73e': {
+            'd': 'Account - C37'
+        },
+        '90b4f9e': {
+            'd': 'Account'
+        },
+        '8be99f7': {
+            'd': 'Your account was successfully created.'
+        },
+        'e706e1d': {
+            'd': 'An email has been sent to your email <a href="mailto:{email}"> {email} </a>. <br/> Click the button in the email to activate your account.'
+        },
+        '01a9d2e': {
+            'd': 'If you do not receive the confirmation message within a few minutes, <br/> <b> check your Spam folder </b>. <br/> If it is there, select the confirmation message and click <b> Not Spam </b>, <br/> which will allow <b> future messages to be delivered </b>.'
+        }
+    },
+    // active
+    '6cebed1': {
+
+    },
+    // user
+    '089d4f6': {
+
+    }
 }

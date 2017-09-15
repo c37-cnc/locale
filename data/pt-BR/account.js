@@ -179,7 +179,21 @@ module.exports = {
     },
     // wellcome
     '51a4ce4': {
-
+        'ea9f73e':{
+            'd': 'Conta - C37'
+        },
+        '90b4f9e':{
+            'd': 'Conta'
+        },
+        '8be99f7':{
+            'd': 'Sua conta foi criada com sucesso.'
+        },
+        'e706e1d':{
+            'd': 'Um e-mail foi enviado para o seu email <a href="mailto:{email}">{email}</a>. <br/> Clique no botão no e-mail para ativar sua conta.'
+        },
+        '01a9d2e':{
+            'd': 'Se você não receber a mensagem de confirmação dentro de alguns minutos, <br/> <b>verifique sua pasta de Spam</b>. <br/> Caso esteja lá, selecione a mensagem de confirmação e clique em <b>Não é Spam</b>, <br/> o que permitirá que <b>futuras mensagens sejam entregues</b>.'
+        }
     },
     // active
     '6cebed1': {
