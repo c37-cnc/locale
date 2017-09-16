@@ -175,7 +175,33 @@ module.exports = {
     },
     // signIn
     '9d576a4': {
-
+        '3995f6b': {
+            d: 'C37 Authentication'
+        },
+        'f67e8a2': {
+            d: 'Authentication'
+        },
+        '90b229a': {
+            d: 'We work to bring the means of production <br/> <strong> reach of all people </strong>.'
+        },
+        '6b3c178': {
+            d: 'Create new account'
+        },
+        'cae025f': {
+            d: 'E-mail'
+        },
+        'e398716': {
+            d: 'Type your password'
+        },
+        '35c454b': {
+            d: 'Stay logged in'
+        },
+        'e51ad68': {
+            d: 'Forgot your password?'
+        },
+        '353d851': {
+            d: 'Enter'
+        }
     },
     // wellcome
     '51a4ce4': {

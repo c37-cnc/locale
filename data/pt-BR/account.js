@@ -175,7 +175,33 @@ module.exports = {
     },
     // signIn
     '9d576a4': {
-
+        '3995f6b': {
+            d: 'Autenticação da C37'
+        },
+        'f67e8a2': {
+            d: 'Autenticação'
+        },
+        '90b229a': {
+            d: 'Trabalhamos para levar os meios de produção ao <br/> <strong>alcance de todas as pessoas</strong>.'
+        },
+        '6b3c178': {
+            d: 'Criar nova conta'
+        },
+        'cae025f': {
+            d: 'E-mail'
+        },
+        'e398716': {
+            d: 'Digite sua Senha'
+        },
+        '35c454b': {
+            d: 'Permanecer conectado'
+        },
+        'e51ad68': {
+            d: 'Esqueceu sua senha?'
+        },
+        '353d851': {
+            d: 'Entrar'
+        }
     },
     // wellcome
     '51a4ce4': {
