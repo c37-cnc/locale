@@ -201,6 +201,18 @@ module.exports = {
         },
         '353d851': {
             d: 'Enter'
+        },
+        '0259111': {
+            d: 'Incorrect password. Try again.'
+        },
+        'da54d24': {
+            d: 'Your C37 Account could not be found.'
+        },
+        '418e214': {
+            d: 'Your account has not been activated. Check your email box.'
+        },
+        '680dc0b': {
+            d: 'Your account has been deleted.'
         }
     },
     // wellcome

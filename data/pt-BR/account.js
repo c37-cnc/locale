@@ -201,6 +201,18 @@ module.exports = {
         },
         '353d851': {
             d: 'Entrar'
+        },
+        '0259111': {
+            d: 'Senha incorreta. Tente novamente.'
+        },
+        'da54d24': {
+            d: 'Não foi possível encontrar sua Conta C37.'
+        },
+        '418e214': {
+            d: 'Sua conta nao foi ativada. Verifique sua caixa de email.'
+        },
+        '680dc0b': {
+            d: 'Sua conta foi excluída.'
         }
     },
     // wellcome
