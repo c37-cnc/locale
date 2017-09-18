@@ -48,7 +48,7 @@ module.exports = {
                 d: 'Não foi possível encontrar sua Conta C37.'
             },
             '418e214': {
-                d: 'Sua conta nao foi ativada. Verifique sua caixa de email.'
+                d: 'Sua conta não foi ativada. Verifique sua caixa de email.'
             },
             '680dc0b': {
                 d: 'Sua conta foi excluída.'
